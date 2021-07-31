@@ -1,0 +1,3 @@
+templates/product.temp.json
+config/*_secret.json
+*.jpg
